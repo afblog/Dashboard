@@ -9,3 +9,5 @@ A fully responsive and customizable admin panel with support for both dark and l
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+This is a preview of a professional admin dashboard project. The source code is private — feel free to contact me if you’re interested in access, collaboration, or licensing.
