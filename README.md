@@ -17,3 +17,5 @@ This is a preview of a professional admin dashboard project. The source code is 
 <br>
 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> **Online Demo Available:** [View Live Version](https://rainbow-gelato-85fe4c.netlify.app/)
+
+> 🌐🔒 **Note:** If the demo link doesn’t open, please turn on your VPN — the hosting provider (Netlify) may be restricted in your region.
